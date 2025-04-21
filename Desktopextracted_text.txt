@@ -1,0 +1,8 @@
+$Bill Amount Due: 250
+Due Date: 11/05/2024
+This is a sample bill for testing purposes.
+Customer Name: John Doe
+Bill Amount: 250.75
+Due Date: 11/05/2024
+
+
